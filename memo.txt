@@ -15,3 +15,7 @@ python3 detect.py --source 0 --weights best.pt
 
 
 asfasf
+
+
+
+수정2
