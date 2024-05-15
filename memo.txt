@@ -12,3 +12,6 @@ sudo usermod -a -G video sungb
 터미널에 최종적으로
 python3 detect.py --source 0 --weights best.pt
 적으면 작동함
+
+
+asfasf
